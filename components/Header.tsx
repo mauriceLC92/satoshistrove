@@ -6,7 +6,7 @@ export const Header = () => {
       <div className="mr-4">
         <h1 className="text-6xl text-center">Satoshi's Trove</h1>
         <p className="pt-2 text-xl text-center">
-          What is Satoshi Nakamoto worth right now?
+          How much is Satoshi Nakamoto worth right now?
         </p>
       </div>
 

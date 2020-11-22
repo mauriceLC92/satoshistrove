@@ -26,7 +26,7 @@ export const NetWorth = () => {
     <section>
       {currentPrice ? (
         <>
-          <div className="text-3xl md:text-6xl">
+          <div className="flex flex-col-reverse md:flex md:flex-row text-4xl md:text-7xl lg:text-8xl">
             <p className="inline-block">
               {formattedPrice(currentPrice, BITCOIN_OWNED_BY_SATOSHI)}
             </p>
