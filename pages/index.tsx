@@ -9,7 +9,7 @@ export default function Home() {
           {/* <div className="">Item</div> */}
         </nav>
       </header>
-      <main className="flex flex-col justify-center items-center px-5 py-5 space-y-10 space-y-24">
+      <main className="flex flex-col justify-center items-center px-5 py-5 space-y-10 sm:space-y-24">
         <Header />
         <NetWorth />
       </main>
