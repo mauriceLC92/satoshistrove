@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <script
           async
-          src={`https://www.googletagmanager.com/gtag/js?id=${YOUR_TRACKING_ID}`}
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
         ></script>
         <script
           async
